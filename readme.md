@@ -10,6 +10,21 @@ Into folder randomFactsRN use the package manager [yarn](https://yarnpkg.com/) t
 yarn install
 ```
 
+## Run project
+
+ - To Run project in phone android you need the next command
+
+```bash
+yarn android
+```
+
+ - To Run project in phone ios you need the next command
+
+```bash
+yarn ios
+```
+
+
 ## Improvements
  - Usinge branches for uploading code.
  - Make a test with jest and react testing library.
